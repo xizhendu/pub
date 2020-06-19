@@ -1,3 +1,6 @@
+# rm -rf /etc/yum.repos.d/*; wget -P /etc/yum.repos.d https://raw.githubusercontent.com/xizhendu/pub/master/centos.7.repo
+
+
 [os]
 name=os
 baseurl=http://mirrors.tuna.tsinghua.edu.cn/centos/7/os/x86_64/
