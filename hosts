@@ -1,0 +1,18 @@
+
+
+# mgmt
+
+10.191.1.204	botnet01
+10.191.1.42	    puppet01
+10.191.1.178	winterfell01
+10.191.2.6	    file01
+
+# testing
+10.191.1.91	    nginx01-testing
+10.191.1.101	nginx02-testing
+10.191.2.211	devicemanager-testing
+10.191.2.74	    portal-testing
+10.191.2.193	mysql-testing
+10.191.2.15	    psql-testing
+
+
